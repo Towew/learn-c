@@ -7,4 +7,6 @@ int main() {
 
     // String Get and Set in terminal
     printf("Nama Saya adalah %s dan saya berumur %hd tahun\n", nama, umur);
+
+    return 0;
 }
