@@ -1,5 +1,6 @@
 ## How to Compile
 
 ```
-gcc -o output-exec main.c
+mkdir -p output && gcc -o output/app multi_array.c
+./output/app
 ```
